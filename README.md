@@ -48,6 +48,9 @@ I consistently practice and document real-world vulnerabilities:
 ### ⚡ XSS Labs  
 👉 [![View XSS Labs](https://img.shields.io/badge/Open-XSS_Labs-purple?style=for-the-badge)](https://github.com/kushalanayaka/portswigger-labs/tree/main/XSS)
 
+### 💻 Webminal Linux Learning
+
+👉 [![View Linux commands daily ](https://img.shields.io/badge/Open-Linux_cmds-blue?style=for-the-badge)](https://github.com/kushalanayaka/webminal-linux-journal)
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kushalnayaka) 

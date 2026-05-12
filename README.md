@@ -45,6 +45,9 @@ I consistently practice and document real-world vulnerabilities:
 ### 🔍 SQL Injection Labs  
 👉 [![View SQLi Labs](https://img.shields.io/badge/Open-SQLi_Labs-green?style=for-the-badge)](https://github.com/kushalanayaka/portswigger-labs/tree/main/SQL-Injection)
 
+### 🔍 SQLMAP 
+👉 [![View SQLMAP Exploits](https://img.shields.io/badge/Open-SQLi_Labs-prange?style=for-the-badge)](https://github.com/kushalanayaka/SQLMAP)
+
 ### ⚡ XSS Labs  
 👉 [![View XSS Labs](https://img.shields.io/badge/Open-XSS_Labs-purple?style=for-the-badge)](https://github.com/kushalanayaka/portswigger-labs/tree/main/XSS)
 

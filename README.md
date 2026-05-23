@@ -17,7 +17,7 @@
 💻 CSE Student passionate about Cybersecurity  
 🔐 Focused on Web Application Security & VAPT  
 🧪 Hands-on learner with PortSwigger labs  
-📚 Learning Burp Suite, SQLi, XSS & ISC2 CC prep  
+📚 Learning Burp Suite, SQLMAP, SQLi, XSS & ISC2 CC prep  
 ⚡ Prefer manual testing to uncover real logic flaws  
 
 ---

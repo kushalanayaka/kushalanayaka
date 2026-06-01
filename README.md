@@ -27,6 +27,9 @@
 ### 🚀 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MYSQL-yellow?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-ff6f00?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge)
 
 ### 🔐 Cybersecurity
 ![VAPT](https://img.shields.io/badge/VAPT-red?style=for-the-badge)
